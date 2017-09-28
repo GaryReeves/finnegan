@@ -1,1 +1,1 @@
-nstall ruby
+install ruby
